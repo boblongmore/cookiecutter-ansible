@@ -1,0 +1,15 @@
+
+{
+    "project_name": "cookiecutter ansible",
+    "project_slug": "{{ cookiecutter.project_name.lower()|replace(' ', '_')|replace('-', '_')|replace('.', '_')|trim() }}",
+    "site_name": "cookiecutter ansible",
+    "repo_name": "wwt/{{ cookiecutter.project_slug }}",
+    "repo_url": "https://github.com/wwt/{{ cookiecutter.project_slug }}",
+    "author": "Bob Longmore",
+    "copyright_notice": "",
+    "year": "2021",
+    "_copy_without_render": [
+        "*.github"
+    ]
+}
+
