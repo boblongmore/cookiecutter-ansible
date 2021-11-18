@@ -6,6 +6,7 @@
     "repo_name": "wwt/{{ cookiecutter.project_slug }}",
     "repo_url": "https://github.com/wwt/{{ cookiecutter.project_slug }}",
     "author": "Bob Longmore",
+    "email": "bob.longmore@wwt.com"
     "copyright_notice": "",
     "year": "2021",
     "_copy_without_render": [
