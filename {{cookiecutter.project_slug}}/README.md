@@ -1,7 +1,7 @@
-#{{cookiecutter.project_name}}
+# {{cookiecutter.project_name}}
 
 
-#Authors
+# Authors
 
 - {{cookiecutter.author}} {{cookiecutter.email}}
 
