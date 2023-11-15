@@ -1,0 +1,9 @@
+---
+namespace: wwt
+name: "{{cookiecutter.project_name}}"
+version: 0.0.1
+readme: README.md
+authors: 
+  - "{{cookiecutter.author}}"
+description: "{{cookiecutter.project_name}}"
+repository: "https://github.com/{{ cookiecutter.project_slug }}"
